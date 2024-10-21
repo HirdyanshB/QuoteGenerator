@@ -37,6 +37,6 @@ A simple web application that fetches random quotes and allows users to tweet th
 3. Open index.html in your preferred web browser.
 
 ### Usage
-1. Upon loading the page, a random quote will be displayed.
+1. Upon loading the page, a random quote will be displayed on the web page.
 2. Click the "New Quote" button to fetch a new quote.
-3. Use the "Tweet" button to share the quote on Twitter.   
+3. Use the "Tweet" button to share the quote on Twitter/X.   
